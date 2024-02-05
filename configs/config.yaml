@@ -1,0 +1,10 @@
+## Path to the .tsv file in the input folder
+mtx: input/colon_scenic_input_test_1k.tsv
+
+## Available options: human/mouse
+organism: human
+
+## Number of workers. An integer 
+## NOTE: For very small datasets set low workers (=1~3)
+## otherwise might fail 
+workers: 1

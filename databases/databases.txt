@@ -1,0 +1,6 @@
+## This directory should contain the following files:
+
+## SCENIC resources
+hg38__refseq-r80__10kb_up_and_down_tss.mc9nr.feather
+hs_hgnc_curated_tfs.txt
+motifs-v9-nr.hgnc-m0.001-o0.0.tbl
